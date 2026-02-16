@@ -1,6 +1,6 @@
 # Hey, I'm Kristian
 
-Full-stack engineer from Stockholm. I run [Elyfe](https://elyfe.dev) — building products from architecture to deployment, mostly in .NET and React.
+Full-stack & agentic engineer from Stockholm. I run [Elyfe](https://elyfe.dev) and own the entire stack — Linux servers, backend, infrastructure, frontend. Mostly .NET and React.
 
 ### What I work with
 
