@@ -1,6 +1,6 @@
 # Hey, I'm Kristian
 
-Full-stack engineer at [@Neovici](https://github.com/Neovici) from Stockholm. I also run [Elyfe](https://elyfe.dev) on the side — building products from architecture to deployment, mostly in .NET and React.
+Full-stack engineer from Stockholm. I run [Elyfe](https://elyfe.dev) — building products from architecture to deployment, mostly in .NET and React.
 
 ### What I work with
 
