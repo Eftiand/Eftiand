@@ -9,6 +9,7 @@ Backend        .NET / C# · Python · Go · Node.js
 Frontend       React · Next.js · TypeScript · Tailwind CSS
 Data           PostgreSQL · Redis · RabbitMQ
 Infrastructure Docker · Kubernetes · Azure · AWS · GitHub Actions
+Editor         Neovim · Claude Code
 ```
 
 ---
