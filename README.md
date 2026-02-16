@@ -1,23 +1,18 @@
 # Hey, I'm Kristian
 
-Full-stack engineer based in Stockholm. Founder of [elyfe](https://elyfe.dev) — building products that solve real problems. From architecture to deployment.
+I build things at [elyfe](https://elyfe.dev) from Stockholm. Full-stack, from architecture to deployment — mostly in .NET and React, but I'll pick whatever gets the job done.
 
-## Tech Stack
+### What I work with
 
-**Backend:** .NET / C# · Python · Go · Node.js
+```
+Backend        .NET / C# · Python · Go · Node.js
+Frontend       React · Next.js · TypeScript · Tailwind CSS
+Data           PostgreSQL · Redis · RabbitMQ
+Infrastructure Docker · Kubernetes · Azure · AWS · GitHub Actions
+```
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS
-
-**Data:** PostgreSQL · Redis · RabbitMQ
-
-**Infrastructure:** Docker · Kubernetes · Azure · AWS · GitHub Actions
-
-## GitHub Stats
+---
 
 <a href="https://github.com/Eftiand">
   <img src="https://streak-stats.demolab.com?user=Eftiand&theme=transparent&hide_border=true" />
 </a>
-
-## Links
-
-[elyfe.dev](https://elyfe.dev) · [LinkedIn](https://linkedin.com/in/kristianjeremic)
