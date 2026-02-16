@@ -15,8 +15,7 @@ Full-stack engineer based in Stockholm. Founder of [elyfe](https://elyfe.dev) â€
 ## GitHub Stats
 
 <a href="https://github.com/Eftiand">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eftiand&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eftiand&layout=compact&theme=transparent&hide_border=true&hide_title=true" />
+  <img src="https://streak-stats.demolab.com?user=Eftiand&theme=transparent&hide_border=true" />
 </a>
 
 ## Links
