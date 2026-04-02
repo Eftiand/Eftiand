@@ -18,4 +18,5 @@ Editor         Neovim · Claude Code
   <img src="https://streak-stats.demolab.com?user=Eftiand&theme=transparent&hide_border=true" />
 </a>
 
-Private account
+
+### This is my personal account
