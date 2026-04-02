@@ -17,3 +17,5 @@ Editor         Neovim · Claude Code
 <a href="https://github.com/Eftiand">
   <img src="https://streak-stats.demolab.com?user=Eftiand&theme=transparent&hide_border=true" />
 </a>
+
+Private account
